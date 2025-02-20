@@ -1,0 +1,1 @@
+# Exceptions spécifiques au domaine
