@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 """
 Usage :
-    python manage_data.py fill
+    python mdata.py fill
         Remplit la base de données avec 10 types de grains de café différents
         et quelques mix pour illustrer toutes les possibilités.
 
-    python manage_data.py see
+    python mdata.py see
         Affiche dans la console l'ensemble des grains de café et des mix enregistrés.
 """
 

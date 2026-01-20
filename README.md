@@ -17,3 +17,5 @@ I use this git for many purpose.
 
 [!TIP]
 T-boys is a half-life/garry's mod video game reference, sorry for the other generations.
+
+Don't forget, python -m pip install django-cors-headers if I did not push the requirements
